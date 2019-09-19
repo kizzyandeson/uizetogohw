@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eedeiquohc.learnwritingthehardway.cn/sitemap.xml
